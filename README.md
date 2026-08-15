@@ -21,6 +21,11 @@ in building the standards and tools that make the same quality come out every ti
 
 `Maya` `ZBrush` `Substance Painter` `Unreal Engine` `Blender` `Codex` `Claude Code`
 
+### Portfolio
+
+**[kwak-seungmin.github.io](https://kwak-seungmin.github.io/)** — work, experience, and the pipeline
+write-up in full.
+
 ### Repositories
 
 | | |
